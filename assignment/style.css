@@ -3,6 +3,7 @@ body {
     background-color: gray;
     font-family: "montserrat", sans-serif;
     margin: 0px;
+    text-align: center;
 }
 
 /* Make the header and footer a different color from the background */
@@ -32,10 +33,11 @@ img {
   border-radius: 50%;
   box-shadow: black 20px 20px 30px;
   height: auto;
-  max-width: 100%;
+  max-width: 70%;
 }
 /* Change the font-family of your list */
 li {
   font-family: fantasy;
   line-height: 30px;
+  text-align: left;
 }
